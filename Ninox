@@ -23,14 +23,14 @@ CAT009,Kitchen,Kitchen tools and gadgets,Yellow
 CAT010,Seasonal,General seasonal items,Teal
 
 Inventory Table:
-BinID,BinName,LocationID,CategoryID,Contents,ItemCount,DateCreated,LastUpdated,QRCodeData,Notes,SubLocation
-BIN001,Holiday Lights Box,LOC001,CAT001,"LED string lights (5 sets), Extension cords, Light hangers",12,2025-08-22,2025-08-22,BIN001,Need to test all strings before use,Shelf A
-BIN002,Halloween Costumes,LOC003,CAT002,"Adult costumes (3), Kids costumes (2), Face paint, Masks",8,2025-08-22,2025-08-22,BIN002,Clean before storing next year,Storage Unit B
-BIN003,Hand Tools,LOC001,CAT003,"Screwdrivers, Pliers, Wire strippers, Utility knife",15,2025-08-22,2025-08-22,BIN003,Keep tools dry and organized,Toolbox
-BIN004,Arduino Projects,LOC005,CAT004,"Arduino Uno (2), Breadboards, Sensors, Resistor kit",25,2025-08-22,2025-08-22,BIN004,Current project components,Desk Drawer
-BIN005,Paper Supplies,LOC005,CAT005,"Copy paper, Notebooks, Sticky notes, Folders",18,2025-08-22,2025-08-22,BIN005,Reorder when low,Supply Cabinet
-BIN006,Yarn Collection,LOC006,CAT006,"Wool yarn (8 balls), Knitting needles, Patterns",22,2025-08-22,2025-08-22,BIN006,Organize by color next time,Upper Cabinet
-BIN007,Car Maintenance,LOC001,CAT007,"Motor oil, Air filter, Windshield fluid, Rags",8,2025-08-22,2025-08-22,BIN007,Check expiration dates,Workbench
-BIN008,Camping Cookware,LOC002,CAT008,"Camp stove, Fuel canisters, Cookset, Utensils",12,2025-08-22,2025-08-22,BIN008,Clean after last trip,Corner Shelf
-BIN009,Baking Tools,LOC006,CAT009,"Mixing bowls, Cookie cutters, Rolling pin, Measuring cups",14,2025-08-22,2025-08-22,BIN009,Great condition,Lower Cabinet
-BIN010,Summer Decorations,LOC004,CAT010,"Patriotic bunting, Garden flags, Outdoor lights",9,2025-08-22,2025-08-22,BIN010,Store carefully to avoid tangles,Box C
+BinID,BinName,LocationID,CategoryID,Contents,ItemCount,DateCreated,LastUpdated,QRCodeData,Notes
+BIN001,Holiday Lights Box,LOC001,CAT001,"LED string lights (5 sets), Extension cords, Light hangers",12,2025-08-22,2025-08-22,BIN001,Need to test all strings before use
+BIN002,Halloween Costumes,LOC003,CAT002,"Adult costumes (3), Kids costumes (2), Face paint, Masks",8,2025-08-22,2025-08-22,BIN002,Clean before storing next year
+BIN003,Hand Tools,LOC001,CAT003,"Screwdrivers, Pliers, Wire strippers, Utility knife",15,2025-08-22,2025-08-22,BIN003,Keep tools dry and organized
+BIN004,Arduino Projects,LOC005,CAT004,"Arduino Uno (2), Breadboards, Sensors, Resistor kit",25,2025-08-22,2025-08-22,BIN004,Current project components
+BIN005,Paper Supplies,LOC005,CAT005,"Copy paper, Notebooks, Sticky notes, Folders",18,2025-08-22,2025-08-22,BIN005,Reorder when low
+BIN006,Yarn Collection,LOC006,CAT006,"Wool yarn (8 balls), Knitting needles, Patterns",22,2025-08-22,2025-08-22,BIN006,Organize by color next time
+BIN007,Car Maintenance,LOC001,CAT007,"Motor oil, Air filter, Windshield fluid, Rags",8,2025-08-22,2025-08-22,BIN007,Check expiration dates
+BIN008,Camping Cookware,LOC002,CAT008,"Camp stove, Fuel canisters, Cookset, Utensils",12,2025-08-22,2025-08-22,BIN008,Clean after last trip
+BIN009,Baking Tools,LOC006,CAT009,"Mixing bowls, Cookie cutters, Rolling pin, Measuring cups",14,2025-08-22,2025-08-22,BIN009,Great condition
+BIN010,Summer Decorations,LOC004,CAT010,"Patriotic bunting, Garden flags, Outdoor lights",9,2025-08-22,2025-08-22,BIN010,Store carefully to avoid tangles
